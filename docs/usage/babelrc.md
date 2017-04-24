@@ -31,7 +31,7 @@ You can alternatively choose to specify your `.babelrc` config from within `pack
     // my babel config here
   }
 }
-```
+
 
 ## `env` option
 
